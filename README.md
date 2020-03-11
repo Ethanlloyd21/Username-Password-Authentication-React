@@ -1,8 +1,12 @@
-# React Otka Auth
+# Username/ Password Authentication using React
 
-> Implementation of Otka authorization/signin in React
+## Dependencies
 
-Uses react-router-dom, @okta/okta-react and @okta/okta-signin-widget
+``` bash
+npm install @okta/okta-signin-widget --save
+
+npm install @okta/okta-react react-router-dom --save
+```
 
 ## Quick Start
 
@@ -19,14 +23,7 @@ npm run build
 
 ## App Info
 
-### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-1.0.0
 
 ### License
 

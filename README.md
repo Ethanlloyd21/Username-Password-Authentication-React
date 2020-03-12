@@ -23,6 +23,8 @@ npm run build
 
 ## App Info
 
+![](img/shoepic.PNG)
+
 For a video demo of this app please <a href="https://drive.google.com/file/d/1XAMJmP6HjifAM-UPCPb9PSadiysp2gbY/view"> -----click here ------  </a>
 
 ### License

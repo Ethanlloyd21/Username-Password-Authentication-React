@@ -25,7 +25,7 @@ npm run build
 
 ![](public/img/shoepic.PNG)
 
-For a video demo of this app please <a href="https://drive.google.com/file/d/16a7xBDngn1zJm_vv_ZVdRjvJUYIy957t/view"> -----click here ------  </a>
+For a video demo of this app please <a href="https://drive.google.com/file/d/1eDSKRQAmc2IHXGoJa4_wgPZwCiV5diBf/view"> -----click here ------  </a>
 
 
 

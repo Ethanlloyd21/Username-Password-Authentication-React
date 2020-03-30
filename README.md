@@ -2,6 +2,17 @@
 - This is a simple application of a username and password authentication using a third party application called OKLA.
 
 ## Why use OKLA?
+- Authentication is a crucial part in developing any application. Whether you are developing an internal IT app for your employees, building a portal for your partners, or exposing a set of APIs for developers building apps around your resources, Okta provides the right authentication support for your projects.
+
+- Building a Custom Authentication Experience for Your Application
+
+- The sign-in experience is one of the most important user experiences any app developer needs to consider. To provide a seamless and attractive, yet secure authentication experience is not a trivial task. Typically, the sign-in logic accompanies other features such as password reset and registration. More importantly, enhanced security in the form of strong and adaptive authentication during the sign-in process is often critical to many implementations.
+
+- Okta provides many options for developers to handle the authentication experience that are built on top of the underlying feature set in Okta. Password policies, strong and adaptive authentication policies, and password reset workflow can all be configured easily in the administrator UI. Many of these policies can also be controlled through Okta's API.
+
+- Big companies uses OKLA as their authentication application. 
+
+- For starters, OKLA is free and offers a lot of option.
 
 
 ## Install

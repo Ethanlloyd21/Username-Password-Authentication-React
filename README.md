@@ -10,12 +10,11 @@
 
 - Okta provides many options for developers to handle the authentication experience that are built on top of the underlying feature set in Okta. Password policies, strong and adaptive authentication policies, and password reset workflow can all be configured easily in the administrator UI. Many of these policies can also be controlled through Okta's API.
 
-![](images/fox.PNG)
 - Big companies uses OKLA as their authentication application. 
+![](images/fox.PNG)
 
-![](images/free_okla.PNG)
 - For starters, OKLA is free and offers a lot of option.
-
+![](images/free_okla.PNG)
 
 ## Install
 

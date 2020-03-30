@@ -12,7 +12,7 @@
 
 
 # General Info
-### Why use OKLA?
+### Introduction about OKLA?
 - Building a Custom Authentication Experience for Your Application
 - Authentication is a crucial part in developing any application. Whether you are developing an internal IT app for your employees, building a portal for your partners, or exposing a set of APIs for developers building apps around your resources, Okta provides the right authentication support for your projects.
 
@@ -36,7 +36,7 @@
 ### Are you a developer? 
 - Start by creating an account. Click here ---> https://developer.okta.com/ <-----
 
-#### How does OKLA works for this project?
+### How does OKLA works for this project?
 - Only the admin has the access to create a new user. The admin can also set up access level on specific user. 
 - For authentication, a random password is sent to the user's email. The user can opt to change the password if needed. A link is provided to do this option. 
 - All browsing history on the app is monitored via OKLA webiste. 

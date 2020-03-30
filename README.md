@@ -1,4 +1,5 @@
 # Username/ Password Authentication using React
+- This is a simple application of a username and password authentication using a third party application called OKLA.
 
 ## Dependencies
 

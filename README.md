@@ -2,7 +2,7 @@
 - This is a simple application of a username and password authentication using a third party application called OKLA.
 
 ## Table of contents
-- [Why use OKLA?](#Why use OKLA?)
+- [Why use OKLA](#Why use OKLA?)
 - [Install](#Install)
 - [Dependencies](##Dependencies)
 - [Technologies](##Technologies)

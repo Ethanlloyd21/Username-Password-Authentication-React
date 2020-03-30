@@ -2,8 +2,8 @@
 - This is a simple application of a username and password authentication using a third party application called OKLA.
 
 ## Table of contents
-- [Why use OKLA?](##Why use OKLA?)
-- [Install](##Install)
+- [Why use OKLA?](#Why use OKLA?)
+- [Install](#Install)
 - [Dependencies](##Dependencies)
 - [Technologies](##Technologies)
 - [Demo](##Demo)
@@ -11,7 +11,7 @@
 - [License](##License)
 
 
-## Why use OKLA?
+# Why use OKLA?
 #### Building a Custom Authentication Experience for Your Application
 - Authentication is a crucial part in developing any application. Whether you are developing an internal IT app for your employees, building a portal for your partners, or exposing a set of APIs for developers building apps around your resources, Okta provides the right authentication support for your projects.
 
@@ -31,7 +31,7 @@
 - For starters, OKLA is free and offers a lot of option.
 ![](images/free_okla.PNG)
 
-## Install
+# Install
 
 ``` javascript
 npm install @okta/okta-signin-widget --save
@@ -39,7 +39,7 @@ npm install @okta/okta-signin-widget --save
 npm install @okta/okta-react react-router-dom --save
 ```
 
-## Quick Start
+# Quick Start
 
 ``` bash
 # Install dependencies
@@ -52,7 +52,7 @@ npm start
 npm run build
 ```
 
-## Dependencies 
+# Dependencies 
 
 ``` javascript
 "dependencies": {
@@ -72,7 +72,7 @@ npm run build
 
 ```
 
-## App Info
+# App Info
 #### Creating an accout
 - Only the admin has the access to create a new user. The admin can also set up access level on specific user. 
 - For authentication, a random password is sent to the user's email. The user can opt to change the password if needed. A link is provided to do this option. 
@@ -84,7 +84,7 @@ npm run build
 
 For a video demo of this app please <a href="https://drive.google.com/file/d/1eDSKRQAmc2IHXGoJa4_wgPZwCiV5diBf/view"> -----click here ------  </a>
 
-## Technologies
+# Technologies
 - React
 - JavaScript
 - CSS
@@ -92,11 +92,11 @@ For a video demo of this app please <a href="https://drive.google.com/file/d/1eD
 - jQueary
 - OKLA (third party application)
 
-## Author
+# Author
 - Lloyd Marcelino
 - webiste: lloydmarcelino@gmail.com
 - github: https://github.com/ethanlloyd21
 
-### License
+# License
 
 This project is licensed under the MIT License

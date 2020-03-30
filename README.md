@@ -1,9 +1,9 @@
 # Username/ Password Authentication using React
 - This is a simple application of a username and password authentication using a third party application called OKLA.
 
-## Dependencies
+## Install
 
-``` bash
+``` javascript
 npm install @okta/okta-signin-widget --save
 
 npm install @okta/okta-react react-router-dom --save
@@ -20,6 +20,26 @@ npm start
 
 # Build for production
 npm run build
+```
+
+## Dependencies 
+
+``` javascript
+"dependencies": {
+    "@okta/okta-react": "^1.4.1",
+    "@okta/okta-signin-widget": "^2.21.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+
 ```
 
 ## App Info

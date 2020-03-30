@@ -4,11 +4,12 @@
 ## Table of contents
 - [General Info](#Info)
 - [Install](#Install)
-- [Dependencies](##Dependencies)
-- [Technologies](##Technologies)
-- [Demo](##Demo)
-- [Author](##Author)
-- [License](##License)
+- [Dependencies](#Dependencies)
+- [Quck Start](#Start)
+- [Technologies](#Technologies)
+- [Demo](#Demo)
+- [Author](#Author)
+- [License](#License)
 
 
 # General Info

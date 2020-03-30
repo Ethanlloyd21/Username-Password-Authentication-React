@@ -1,6 +1,16 @@
 # Username/ Password Authentication using React
 - This is a simple application of a username and password authentication using a third party application called OKLA.
 
+## Table of contents
+- [Why use OKLA?](##Why use OKLA?)
+- [Install](##Install)
+- [Dependencies](##Dependencies)
+- [Technologies](##Technologies)
+- [Demo](##Demo)
+- [Author](##Author)
+- [License](##License)
+
+
 ## Why use OKLA?
 #### Building a Custom Authentication Experience for Your Application
 - Authentication is a crucial part in developing any application. Whether you are developing an internal IT app for your employees, building a portal for your partners, or exposing a set of APIs for developers building apps around your resources, Okta provides the right authentication support for your projects.
@@ -81,6 +91,11 @@ For a video demo of this app please <a href="https://drive.google.com/file/d/1eD
 - HTML5
 - jQueary
 - OKLA (third party application)
+
+## Author
+- Lloyd Marcelino
+- webiste: lloydmarcelino@gmail.com
+- github: https://github.com/ethanlloyd21
 
 ### License
 

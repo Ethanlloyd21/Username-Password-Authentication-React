@@ -1,5 +1,6 @@
 # Username/ Password Authentication using React
 - This is a simple application of a username and password authentication using a third party application called OKLA.
+![](public/img/shoepic.PNG)
 
 ## Table of contents
 - [General Info](#Info)
@@ -15,8 +16,6 @@
 ### Purpose
 - To build a Custom Authentication Experience for Your Application
 - Authentication is a crucial part in developing any application. Whether you are developing an internal IT app for your employees, building a portal for your partners, or exposing a set of APIs for developers building apps around your resources, Okta provides the right authentication support for your projects.
-
-![](public/img/shoepic.PNG)
 
 - The sign-in experience is one of the most important user experiences any app developer needs to consider. To provide a seamless and attractive, yet secure authentication experience is not a trivial task. Typically, the sign-in logic accompanies other features such as password reset and registration. More importantly, enhanced security in the form of strong and adaptive authentication during the sign-in process is often critical to many implementations.
 

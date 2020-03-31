@@ -13,7 +13,7 @@
 
 # General Info
 ### Purpose
-- Building a Custom Authentication Experience for Your Application
+- To build a Custom Authentication Experience for Your Application
 - Authentication is a crucial part in developing any application. Whether you are developing an internal IT app for your employees, building a portal for your partners, or exposing a set of APIs for developers building apps around your resources, Okta provides the right authentication support for your projects.
 
 ![](public/img/shoepic.PNG)

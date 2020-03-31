@@ -81,10 +81,10 @@ npm run build
 ![](public/img/shoepic.PNG)
  
 - Login page
-![](public/img/login.PNG)
+![](images/login.PNG)
 
 - Once the user has been authenticated, the user will be directed to the landing page. 
-![](public/img/home.PNG)
+![](images/home.PNG)
 
 ### How does OKLA works for the Sneaker Inventory project?
 - Only the admin has the access to create a new user. The admin can also set up access level on specific user. 

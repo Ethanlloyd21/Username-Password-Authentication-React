@@ -36,12 +36,6 @@
 ### Are you a developer? 
 - Start by creating an account. Click here ---> https://developer.okta.com/ <-----
 
-### How does OKLA works for this project?
-- Only the admin has the access to create a new user. The admin can also set up access level on specific user. 
-- For authentication, a random password is sent to the user's email. The user can opt to change the password if needed. A link is provided to do this option. 
-- All browsing history on the app is monitored via OKLA webiste. 
-- Admin can monitor the traffic on the webiste. 
-
 # Install
 
 ``` javascript
@@ -81,9 +75,24 @@ npm run build
 
 ```
 
-## Demo
-![](public/img/shoepic.PNG)
+## About the Project
 
+- User will be ask for credentials
+![](public/img/shoepic.PNG)
+ 
+- Login page
+![](public/img/login.PNG)
+
+- Once the user has been authenticated, the user will be directed to the landing page. 
+![](public/img/home.PNG)
+
+### How does OKLA works for the Sneaker Inventory project?
+- Only the admin has the access to create a new user. The admin can also set up access level on specific user. 
+- For authentication, a random password is sent to the user's email. The user can opt to change the password if needed. A link is provided to do this option. 
+- All browsing history on the app is monitored via OKLA webiste. 
+- Admin can monitor the traffic on the webiste. 
+
+### Demo
 For a video demo of this app please <a href="https://drive.google.com/file/d/1eDSKRQAmc2IHXGoJa4_wgPZwCiV5diBf/view"> -----click here ------  </a>
 
 # Technologies
